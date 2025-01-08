@@ -17,7 +17,10 @@
 
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gs223gs)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+
+<figure><embed src="https://wakatime.com/share/@bd80c2af-d205-48a8-a0f1-bd3df193e4d7/6593c585-51af-494c-b143-af6137fbf7eb.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@bd80c2af-d205-48a8-a0f1-bd3df193e4d7/b64438ff-88b4-41f0-9e8c-335bb67d0387.svg"></embed></figure>
 
 
 
@@ -29,7 +32,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=javascript,Linux,Django,python,react,docker,nodejs,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=javascript,linux,django,python,react,docker,nodejs,laravel" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
