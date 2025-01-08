@@ -13,13 +13,6 @@ jobs:
       # リポジトリをクローン
       - name: Checkout Repository
         uses: actions/checkout@v3
-
-      # READMEを生成（必要に応じてカスタマイズ）
-      - name: Generate README
-        run: |
-          echo "This is a dynamic README update." > README.md
-          echo "Last updated: $(date)" >> README.md
-
       # GitHub Actions用のGit設定
       - name: Configure Git
         run: |
