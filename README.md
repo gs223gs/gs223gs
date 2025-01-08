@@ -1,8 +1,6 @@
 # Backend Developer in Japan
 ### Just 24 years old 
 
-<!-- imgの画像を横並びで表示 -->
-![T.Miura](./img/icon.png)
 
 #
 ![T.Miura_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs223gs&show_icons=true&theme=vue-dark)

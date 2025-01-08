@@ -2,22 +2,35 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # 12時間ごとに実行
+  workflow_dispatch: # 手動実行用
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      # リポジトリをクローン
+      - name: Checkout Repository
         uses: actions/checkout@v3
+
+      # READMEを生成（必要に応じてカスタマイズ）
       - name: Generate README
         run: |
-          curl -o README.md https://github.com/gs223gs/gs223gs/blob/main/README.md
-      - name: Commit and Push
+          echo "This is a dynamic README update." > README.md
+          echo "Last updated: $(date)" >> README.md
+
+      # GitHub Actions用のGit設定
+      - name: Configure Git
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Update dynamic README"
-          git push
+
+      # READMEの変更をコミット＆プッシュ
+      - name: Commit and Push Changes
+        run: |
+          git add README.md
+          git commit -m "Update dynamic README" || echo "No changes to commit"
+          git push origin HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
