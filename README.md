@@ -2,7 +2,7 @@
 ### Just 24 years old 
 ### Feel free to contact me anytime!👍
 #
-![T.Miura_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+![T.Miura_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gs223gs_name&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs223gs_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,13 +21,13 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,sqlite,mysql,github,vscode,php,laravel," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,sqlite,mysql,github,vscode,php,corsur,vim" /> <br /><br />
 
 
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,docker,node.js" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,docker,node.js,laravel" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
