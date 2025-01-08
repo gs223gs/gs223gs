@@ -17,12 +17,13 @@
 
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gs223gs)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 
-# My Skill ()
 
-<img src="https://skillicons.dev/icons?
-  i=html,css,php,sqlite,mysql,github,vscode,vim" /> <br /><br />
+# My Skill 
+
+<img src="https://skillicons.dev/icons?i=html,css,php,sqlite,mysql,github,vscode,vim" /> <br /><br />
 
 
   
