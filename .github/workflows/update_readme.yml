@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 毎日更新
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate README
+        run: |
+          curl -o README.md https://github.com/gs223gs/gs223gs/blob/main/README.md
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update dynamic README"
+          git push
