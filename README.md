@@ -10,7 +10,7 @@
 
 
 
-# NOW TRAINING
+
 
 <p align="left">
 <a href="https://x.com/gs223gs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
@@ -19,15 +19,16 @@
 
 
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# My Skill ()
 
-<img src="https://skillicons.dev/icons?i=html,css,sqlite,mysql,github,vscode,php,corsur,vim" /> <br /><br />
+<img src="https://skillicons.dev/icons?
+  i=html,css,php,sqlite,mysql,github,vscode,vim" /> <br /><br />
 
 
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,docker,node.js,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=javascript,Linux,Django,python,react,docker,nodejs,laravel" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
