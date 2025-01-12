@@ -14,10 +14,10 @@
 </p>
 
 # My Skill 
-<img src="https://skillicons.dev/icons?i=html,css,php,sqlite,mysql,github,vscode,vim" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,sqlite,mysql,github,vscode,vim" /> <br /><br />
   
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=javascript,linux,django,python,react,docker,nodejs,laravel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=javascript,python,react,docker,nodejs,laravel,django" /> <br /><br />
 <!-- --------------------------------- :) ---------------------------------- -->
 <br><br><br>
 <br><br><br>
