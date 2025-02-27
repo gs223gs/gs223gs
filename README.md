@@ -12,12 +12,9 @@
 <p align="left">
 <a href="https://x.com/gs223gs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 </p>
-
-# My Skill 
-<img src="https://skillicons.dev/icons?i=php,sqlite,mysql,github,vscode,vim" /> <br /><br />
   
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=javascript,python,react,nodejs,laravel,django,docker" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,go" /> <br /><br />
 <!-- --------------------------------- :) ---------------------------------- -->
 <br><br><br>
 <br><br><br>
