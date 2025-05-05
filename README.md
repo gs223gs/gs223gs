@@ -7,14 +7,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gs223gs&theme=discord&cache_seconds=1800)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![T.Miura's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bd80c2af-d205-48a8-a0f1-bd3df193e4d7&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
 <a href="https://x.com/gs223gs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 </p>
   
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=react,go" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind" /> <br /><br />
 <!-- --------------------------------- :) ---------------------------------- -->
-<br><br><br>
-<br><br><br>
