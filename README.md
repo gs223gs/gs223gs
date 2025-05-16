@@ -12,5 +12,5 @@
 </p>
   
 # NOW TRAINING
-<img src="[https://skillicons.dev/icons?i=react,typescript,tailwind,docker](https://skillicons.dev/icons?i=react,typescript,tailwind,docker,notion)" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,docker,notion" /> <br /><br />
 <!-- --------------------------------- :) ---------------------------------- -->
