@@ -1,10 +1,10 @@
 
 ## Tech Stack 
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
-<img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" />
-<img src="https://skillicons.dev/icons?i=spring,nextjs,react,apollo,prisma,tailwind" />
 
-<img width="256" height="256" src="https://skillicons.dev/icons?i=docker,postgresql,graphql,githubactions" />
+<img src="https://skillicons.dev/icons?i=spring,nextjs,react" /><img width="50" height="50" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" /><img src="https://skillicons.dev/icons?i=apollo,prisma,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=supabase,vercel,docker,postgresql,graphql,githubactions" />
 
 ## contribute graph
 ![](./profile-3d-contrib/profile-green-animate.svg)
