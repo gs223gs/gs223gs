@@ -1,4 +1,5 @@
 
+<img width="200" height="200" src="./img/fodie.PNG" /><img width="200" height="200" src="./img/icon.PNG" /><img width="200" height="200" src="./img/icon_suit.PNG" /><img width="200" height="200" src="./img/turtleneck.PNG" />
 ## Tech Stack 
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
 
